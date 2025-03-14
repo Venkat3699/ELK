@@ -1,0 +1,1 @@
+Ref: https://medium.com/@davis.angwenyi/how-to-install-elastic-search-using-helm-into-kubernetes-de1fb1011076
